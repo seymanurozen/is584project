@@ -1,0 +1,16 @@
+{"time":"2025-05-26T00:13:19.943022036+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/chatbot/584/wandb/run-20250526_001319-j4wix8ra/logs/debug-core.log"}
+{"time":"2025-05-26T00:13:20.248118055+03:00","level":"INFO","msg":"created new stream","id":"j4wix8ra"}
+{"time":"2025-05-26T00:13:20.248129541+03:00","level":"INFO","msg":"stream: started","id":"j4wix8ra"}
+{"time":"2025-05-26T00:13:20.248170675+03:00","level":"INFO","msg":"handler: started","stream_id":"j4wix8ra"}
+{"time":"2025-05-26T00:13:20.248187729+03:00","level":"INFO","msg":"sender: started","stream_id":"j4wix8ra"}
+{"time":"2025-05-26T00:13:20.248195295+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"j4wix8ra"}
+{"time":"2025-05-26T00:13:20.640546495+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-26T00:28:36.786429857+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-26T00:28:36.786457992+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-26T00:28:37.787687688+03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.338021121,"progress":"770B/770B"}],"total_operations":1}}
+{"time":"2025-05-26T00:28:38.209427938+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-26T00:28:38.462532271+03:00","level":"INFO","msg":"stream: closing","id":"j4wix8ra"}
+{"time":"2025-05-26T00:28:38.46253908+03:00","level":"INFO","msg":"handler: closed","stream_id":"j4wix8ra"}
+{"time":"2025-05-26T00:28:38.462542633+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"j4wix8ra"}
+{"time":"2025-05-26T00:28:38.462574555+03:00","level":"INFO","msg":"sender: closed","stream_id":"j4wix8ra"}
+{"time":"2025-05-26T00:28:38.462595856+03:00","level":"INFO","msg":"stream: closed","id":"j4wix8ra"}

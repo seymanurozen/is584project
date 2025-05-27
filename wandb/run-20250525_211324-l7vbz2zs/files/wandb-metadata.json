@@ -1,0 +1,41 @@
+{
+  "os": "Linux-6.11.0-26-generic-x86_64-with-glibc2.39",
+  "python": "CPython 3.12.3",
+  "startedAt": "2025-05-25T18:13:24.786441Z",
+  "program": "/home/chatbot/584/benchmark_2.py",
+  "codePath": "benchmark_2.py",
+  "git": {
+    "remote": "https://github.com/seymanurozen/is584project.git",
+    "commit": "04b9efbba81310e0d1d8f44e6e43fd65c705674b"
+  },
+  "email": "seymanurozennn@gmail.com",
+  "root": "/home/chatbot/584",
+  "host": "chatbot",
+  "executable": "/home/chatbot/584/venv/bin/python",
+  "codePathLocal": "benchmark_2.py",
+  "cpu_count": 24,
+  "cpu_count_logical": 32,
+  "gpu": "NVIDIA GeForce RTX 5090",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "1966737727488",
+      "used": "65839001600"
+    }
+  },
+  "memory": {
+    "total": "202440019968"
+  },
+  "cpu": {
+    "count": 24,
+    "countLogical": 32
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 5090",
+      "memoryTotal": "34190917632",
+      "cudaCores": 21760
+    }
+  ],
+  "cudaVersion": "12.8"
+}

@@ -1,0 +1,7 @@
+{"time":"2025-05-26T00:40:30.255931848+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/chatbot/584/wandb/run-20250526_004030-5t3syidm/logs/debug-core.log"}
+{"time":"2025-05-26T00:40:30.56444048+03:00","level":"INFO","msg":"created new stream","id":"5t3syidm"}
+{"time":"2025-05-26T00:40:30.564450634+03:00","level":"INFO","msg":"stream: started","id":"5t3syidm"}
+{"time":"2025-05-26T00:40:30.564521663+03:00","level":"INFO","msg":"sender: started","stream_id":"5t3syidm"}
+{"time":"2025-05-26T00:40:30.564523152+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"5t3syidm"}
+{"time":"2025-05-26T00:40:30.564531952+03:00","level":"INFO","msg":"handler: started","stream_id":"5t3syidm"}
+{"time":"2025-05-26T00:40:30.913639211+03:00","level":"INFO","msg":"Starting system monitor"}

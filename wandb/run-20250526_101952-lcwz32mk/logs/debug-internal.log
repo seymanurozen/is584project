@@ -1,0 +1,16 @@
+{"time":"2025-05-26T10:19:52.9530266+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/home/chatbot/584/wandb/run-20250526_101952-lcwz32mk/logs/debug-core.log"}
+{"time":"2025-05-26T10:19:53.256666565+03:00","level":"INFO","msg":"created new stream","id":"lcwz32mk"}
+{"time":"2025-05-26T10:19:53.256674009+03:00","level":"INFO","msg":"stream: started","id":"lcwz32mk"}
+{"time":"2025-05-26T10:19:53.256705461+03:00","level":"INFO","msg":"handler: started","stream_id":"lcwz32mk"}
+{"time":"2025-05-26T10:19:53.256726103+03:00","level":"INFO","msg":"sender: started","stream_id":"lcwz32mk"}
+{"time":"2025-05-26T10:19:53.256735335+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"lcwz32mk"}
+{"time":"2025-05-26T10:19:53.544625379+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-26T10:35:58.299086939+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-26T10:35:58.299110857+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-26T10:35:59.264295704+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-26T10:35:59.299953538+03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 0-0, summary, console lines 2-2","runtime_seconds":0.035628951}],"total_operations":1}}
+{"time":"2025-05-26T10:35:59.538363615+03:00","level":"INFO","msg":"stream: closing","id":"lcwz32mk"}
+{"time":"2025-05-26T10:35:59.538367711+03:00","level":"INFO","msg":"handler: closed","stream_id":"lcwz32mk"}
+{"time":"2025-05-26T10:35:59.53837062+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"lcwz32mk"}
+{"time":"2025-05-26T10:35:59.538397362+03:00","level":"INFO","msg":"sender: closed","stream_id":"lcwz32mk"}
+{"time":"2025-05-26T10:35:59.538399073+03:00","level":"INFO","msg":"stream: closed","id":"lcwz32mk"}
