@@ -54,7 +54,7 @@ def predict_acceptance(prompt, max_tokens):
     answer = response["message"]["content"].strip().lower()
     return 1 if "accept" in answer else 0
 
-# Sadece eksik kombinasyonları çalıştır
+
 for top_k, max_tokens in MISSING_RUNS:
     run = wandb.init(
         project="is584-benchmark",
